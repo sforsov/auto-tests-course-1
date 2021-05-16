@@ -1,0 +1,8 @@
+def test_substring(full_string, substring):
+    if substring == full_string:
+        print()
+        return
+    if substring not in full_string:
+        print(f"expected '{substring}' to be substring of '{full_string}'")
+    if full_string in substring:
+        print()

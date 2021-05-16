@@ -1,0 +1,35 @@
+1621065554903	geckodriver	INFO	Listening on 127.0.0.1:51119
+1621065554916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3d1mMY"
+1621065556271	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621065562063	Marionette	INFO	Listening on port 39001
+1621065562158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1620743373, line 6208: unreachable code after return statement
+1621065659775	Marionette	INFO	Stopped listening on port 39001
+1621065744001	geckodriver	INFO	Listening on 127.0.0.1:50903
+1621065744015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyBaL52"
+1621065745347	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621065751391	Marionette	INFO	Listening on port 33467
+1621065751538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1621065754148	Marionette	INFO	Stopped listening on port 33467
+1621065978339	geckodriver	INFO	Listening on 127.0.0.1:36749
+1621065978360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ0UP2f"
+1621065979789	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621065985794	Marionette	INFO	Listening on port 36241
+1621065985879	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1621065991466	Marionette	INFO	Stopped listening on port 36241
+1621065992780	geckodriver	INFO	Listening on 127.0.0.1:38081
+1621065992792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewotUIS"
+1621065994123	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621066000295	Marionette	INFO	Listening on port 38729
+1621066000419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1621066003283	Marionette	INFO	Stopped listening on port 38729
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
